@@ -6,5 +6,10 @@ namespace inkedup_maui
         {
             InitializeComponent();
         }
+
+		private void BtnNavigateBack_Clicked(object sender, EventArgs e)
+		{
+			Navigation.PopAsync();
+		}
     }
 }

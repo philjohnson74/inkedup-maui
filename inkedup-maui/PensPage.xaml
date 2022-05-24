@@ -7,5 +7,6 @@
         <Label Text="These are your pens!"
                 VerticalOptions="CenterAndExpand"
                 HorizontalOptions="CenterAndExpand" />
+        <Button Text="Navigate Back" x:Name="BtnNavigateBack" Clicked="BtnNavigateBack_Clicked"/>
     </StackLayout>
 </ContentPage>
