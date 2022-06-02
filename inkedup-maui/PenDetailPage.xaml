@@ -5,7 +5,7 @@
              BackgroundColor="White">
 
     <ContentPage.ToolbarItems>
-        <ToolbarItem IconImageSource="share.svg"  Order="Primary" x:Name="TbShare" Clicked="TbShare_Clicked"/>
+        <!-- <ToolbarItem IconImageSource="share.svg"  Order="Primary" x:Name="TbShare" Clicked="TbShare_Clicked"/> -->
     </ContentPage.ToolbarItems>
 
     <Grid RowDefinitions="Auto,Auto,Auto">
